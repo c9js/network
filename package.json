@@ -1,0 +1,10 @@
+{
+    "name": "network",
+    "version": "0.0.1",
+    "main": "index.js",
+    "dependencies": {
+        "core": "c9js/core",
+        "scanner": "c9js/scanner",
+        "sender": "c9js/sender"
+    }
+}
