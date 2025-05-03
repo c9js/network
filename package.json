@@ -1,0 +1,11 @@
+{
+    "name": "network",
+    "version": "0.0.1",
+    "dependencies": {
+        "l2raw": "c9js/l2raw"
+    },
+    "devDependencies": {
+        "core": "c9js/core"
+    },
+    "license": "MIT"
+}
